@@ -9,7 +9,7 @@ I like working with stable diffusion
 
 ![python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg)
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 ![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 
