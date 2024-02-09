@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on school project 
+- I'm studing IT with my specialisation in AI at AP.
+
+I like working with stable diffusion
+
 
 <!--
 **VinsiGit/VinsiGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
